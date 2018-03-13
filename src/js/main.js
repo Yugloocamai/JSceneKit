@@ -545,6 +545,7 @@ _ClassList.registerClass(NSColorSpaceModel, 'NSColorSpaceModel')
 _ClassList.registerClass(CFAbsoluteTimeGetCurrent, 'CFAbsoluteTimeGetCurrent')
 _ClassList.registerClass(NSObject, 'NSObject')
 
+var exports = this
 /*global exports*/
 exports.CGLineCap = CGLineCap
 exports.CGLineJoin = CGLineJoin
